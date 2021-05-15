@@ -1,0 +1,19 @@
+{
+  "name": "chatnest",
+  "version": "1.0.0",
+  "description": "Chatting WebApp for group and private chats",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambitraze/chatnest.git"
+  },
+  "author": "sambitraze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambitraze/chatnest/issues"
+  },
+  "homepage": "https://github.com/sambitraze/chatnest#readme"
+}
